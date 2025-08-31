@@ -12,7 +12,7 @@
 
 ## 👨‍🎓 Integrantes: 
 
- <a href="https://www.linkedin.com/in/jonastadeufernandes">Jonas T V Fernandes</a>
+- <a href="https://www.linkedin.com/in/jonastadeufernandes">Jonas T V Fernandes</a>
 - <a href="https://www.linkedin.com/in/raphaelsilva-phael">Raphael da Silva</a> 
 - <a href="https://www.linkedin.com/in/raphael-dinelli-8a01b278/">Raphael Dinelli Neto</a> 
 - <a href="https://www.linkedin.com/company/inova-fusca">Levi Passos Silveira Marques</a>
