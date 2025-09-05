@@ -31,8 +31,9 @@
 
 A FarmTech Solutions está prestando serviços de IA para uma fazenda de médio porte (200 hectares ou aproximadamente 210 campos de futebol oficiais) que produz várias culturas. Seu time precisa analisar uma base de dados com informações de condições de solo e temperatura, relacionadas com o tipo de produto agrícola dessa fazenda. Você deverá prever o rendimento de safra (conforme visto no capítulo 13 - Modelagem de Dados com Regressão Supervisionada, da Fase 4) e explorar a tendência de produtividade (visto no capítulo 10 - Machine Learning Sem Supervisão: Uma Jornada pela Descoberta de Dados, da Fase 5).
 
-
-
+- O arquivo do Jupiter Notebook "Cap_1_FarmTech_na_era_da_cloud_computing" contém toda analise e modelos criados e está na pasta "src".
+- O arquivo "Calculo hospedagem do modelo" contém a analise de hospedagem usando a AWS Calculator e está na pasta "document".
+- Arquivos complementares estão nas pastas correspondentes.
 
 ## 💽 Fontes de dados: 
 
@@ -53,7 +54,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
 
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
+- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto.
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
@@ -64,7 +65,7 @@ O projeto foi desenvolvido no Jupiter Notebook.
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0.0 - 31/08/2025
+* 1.0.0 - 05/09/2025
    
 ## 📋 Licença
 
