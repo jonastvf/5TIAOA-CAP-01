@@ -12,11 +12,10 @@
 
 ## 👨‍🎓 Integrantes: 
 
-- <a href="https://www.linkedin.com/in/jonastadeufernandes">Jonas T V Fernandes</a>
-- <a href="https://www.linkedin.com/in/raphaelsilva-phael">Raphael da Silva</a> 
-- <a href="https://www.linkedin.com/in/raphael-dinelli-8a01b278/">Raphael Dinelli Neto</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Levi Passos Silveira Marques</a>
-
+- <a href="https://www.linkedin.com/in/jonastadeufernandes">Jonas T V Fernandes -  RM: 563027</a>
+- <a href="https://www.linkedin.com/in/raphaelsilva-phael">Raphael da Silva - RM: 561452</a> 
+- <a href="https://www.linkedin.com/in/raphael-dinelli-8a01b278/">Raphael Dinelli Neto - RM: 562892</a> 
+- <a href="https://www.linkedin.com/company/inova-fusca">Levi Passos Silveira Marques - RM: 565557</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
