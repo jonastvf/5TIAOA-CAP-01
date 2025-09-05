@@ -23,11 +23,12 @@
 - <a href="https://www.linkedin.com/in/leonardoorabona">Leonardo Ruiz Orabona</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi</a>
-
-
+ 
     ## 📜 Descrição
 
 **Analise de produtividade da fazenda e safra**
+
+- <a href="https://youtu.be/ByqmYhrdeZE">Vídeo Explicativo do trabalho para ambas etapas</a>
 
 A FarmTech Solutions está prestando serviços de IA para uma fazenda de médio porte (200 hectares ou aproximadamente 210 campos de futebol oficiais) que produz várias culturas. Seu time precisa analisar uma base de dados com informações de condições de solo e temperatura, relacionadas com o tipo de produto agrícola dessa fazenda. Você deverá prever o rendimento de safra (conforme visto no capítulo 13 - Modelagem de Dados com Regressão Supervisionada, da Fase 4) e explorar a tendência de produtividade (visto no capítulo 10 - Machine Learning Sem Supervisão: Uma Jornada pela Descoberta de Dados, da Fase 5).
 
