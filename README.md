@@ -29,11 +29,9 @@
 
 - <a href="https://youtu.be/ByqmYhrdeZE">Vídeo Explicativo do trabalho para ambas etapas</a>
 
-A FarmTech Solutions está prestando serviços de IA para uma fazenda de médio porte (200 hectares ou aproximadamente 210 campos de futebol oficiais) que produz várias culturas. Seu time precisa analisar uma base de dados com informações de condições de solo e temperatura, relacionadas com o tipo de produto agrícola dessa fazenda. Você deverá prever o rendimento de safra (conforme visto no capítulo 13 - Modelagem de Dados com Regressão Supervisionada, da Fase 4) e explorar a tendência de produtividade (visto no capítulo 10 - Machine Learning Sem Supervisão: Uma Jornada pela Descoberta de Dados, da Fase 5).
+A FarmTech Solutions está prestando serviços de IA para uma fazenda de médio porte (200 hectares ou aproximadamente 210 campos de futebol oficiais) que produz várias culturas. Analisamos uma base de dados com informações de condições de solo e temperatura, relacionadas com o tipo de produto agrícola dessa fazenda, com o objetivo de prever o rendimento de safra e explorar a tendência de produtividade.
 
-- O arquivo do Jupiter Notebook "Cap_1_FarmTech_na_era_da_cloud_computing" contém toda analise e modelos criados e está na pasta "src".
-- O arquivo "Calculo hospedagem do modelo" contém a analise de hospedagem usando a AWS Calculator e está na pasta "document".
-- Arquivos complementares estão nas pastas correspondentes.
+Posteriormente, usando a calculadora da AWS, realizamos uma estimativa de custos para usar uma máquina Linux simples, comparando os valores cotados para a região de São Paulo (BR) e para a região da Virgínia do Norte (EUA). A máquina será utilizada para hospedar uma API que receberá dados dos sensores que coletam as variáveis acima e hospedará a Machine Learning desenvolvida. 
 
 ## 💽 Fontes de dados: 
 
@@ -52,9 +50,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
 
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
+- <b>document</b>: aqui estão todos os documentos do projeto. Na subpasta "other", estão documentos complementares e menos importantes. Aqui está o arquivo "Calculo hospedagem do modelo" contém a analise de hospedagem usando a AWS Calculator.
 
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto.
+- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto. Contém o arquivo do Jupiter Notebook "Cap_1_FarmTech_na_era_da_cloud_computing" contém toda analise e modelos criados.
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
